@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1708887507772" clover="3.2.0">
+  <project timestamp="1708887507772" name="All files">
+    <metrics statements="43" coveredstatements="41" conditionals="13" coveredconditionals="12" methods="15" coveredmethods="14" elements="71" coveredelements="67" complexity="0" loc="43" ncloc="43" packages="3" files="11" classes="11"/>
+    <package name="components">
+      <metrics statements="24" coveredstatements="24" conditionals="11" coveredconditionals="10" methods="9" coveredmethods="9"/>
+      <file name="Avatar.tsx" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/components/Avatar.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+      </file>
+      <file name="ErrorMessage.tsx" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/components/ErrorMessage.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="2" type="stmt"/>
+      </file>
+      <file name="RadioGroup.tsx" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/components/RadioGroup.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="10" type="stmt"/>
+        <line num="26" count="22" type="stmt"/>
+        <line num="34" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="52" count="2" type="stmt"/>
+      </file>
+      <file name="Section.tsx" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/components/Section.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="17" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+      </file>
+      <file name="TextInput.tsx" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/components/TextInput.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+      <file name="Typography.tsx" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/components/Typography.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="16" count="66" type="stmt"/>
+        <line num="17" count="66" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+      </file>
+      <file name="UserItem.tsx" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/components/UserItem.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/components/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="pages.home">
+      <metrics statements="16" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="5"/>
+      <file name="Home.tsx" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/pages/home/Home.tsx">
+        <metrics statements="16" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="5"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="31" count="10" type="stmt"/>
+        <line num="32" count="10" type="stmt"/>
+        <line num="33" count="10" type="stmt"/>
+        <line num="39" count="10" type="stmt"/>
+        <line num="46" count="10" type="stmt"/>
+        <line num="48" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="51" count="10" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="56" count="10" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="83" count="5" type="stmt"/>
+        <line num="91" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="theme">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="defaults.ts" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/theme/defaults.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="31" count="7" type="stmt"/>
+        <line num="59" count="7" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/rahulsaini/Desktop/assignments/customer-app/src/theme/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
